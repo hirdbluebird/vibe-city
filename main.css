@@ -1,8 +1,10 @@
 * {padding:0px;margin:0px;}
 body {font-family:'Open Sans';}
 a {text-decoration:none;}
+#map {height: 100vh;}
 
-.vibe-block {position:absolute; right:50px; top:50px; width:260px; box-shadow:0px 0px 3px 0px black; border-radius:1px;}
+
+.vibe-block {position:absolute; right:50px; top:50px; width:260px; box-shadow:0px 0px 3px 0px black; border-radius:1px; background-color:white;}
 
 .vibe-block__header {border-bottom:1px solid #ebebeb; padding:15px 10px 5px; margin: 3px;}
 .vibe-block__header-title {float:left; color:#545454; font-weight:semibold; font-size:16pt;}
