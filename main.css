@@ -4,9 +4,9 @@ a {text-decoration:none;}
 #map {height: 100vh;}
 
 .vibe-block-wrapper {position:absolute; right:50px; top:50px;}
-.vibe-block {width:260px; box-shadow:0px 0px 3px 0px black; border-radius:1px; background-color:white; padding:3px; margin-bottom:10px;}
+.vibe-block {width:260px; box-shadow:0px 0px 3px 0px black; border-radius:1px; background-color:white; margin-bottom:10px;}
 
-.vibe-block__copyright {display:inline-block; float:right; width:auto;}
+.vibe-block__copyright {display:inline-block; float:right; width:auto; font-size:10pt; padding:3px;}
 .vibe-block__copyright-link {text-transform:uppercase; color:#54c0cd;}
 .vibe-block__copyright-link:hover {text-decoration: underline}
 
